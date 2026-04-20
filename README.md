@@ -19,7 +19,7 @@ for high-fidelity photorealistic generations.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/cuccurese2010/stable-diffusion-xl-docker-setup.git](https://github.com/cuccurese2010/stable-diffusion-xl-docker-setup.git)
+   git clone [https://github.com/cuccurese2010/stable-diffusion-xl-docker-setup.git
    cd stable-diffusion-xl-docker-setup
    docker compose --profile download up --build
    # wait until its done, then:
