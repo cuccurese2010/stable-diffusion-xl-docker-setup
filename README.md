@@ -31,3 +31,8 @@ for high-fidelity photorealistic generations.
    Txt2img
    Sampling steps=35
    Hires fix=512x512
+
+Start up the container:
+docker compose --profile auto up
+Shutdown the container:
+docker compose --profile auto down
