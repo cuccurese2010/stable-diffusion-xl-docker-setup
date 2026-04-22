@@ -32,7 +32,7 @@ for high-fidelity photorealistic generations.
    Sampling steps=35
    Hires fix=512x512
 
-Start up the container:
-docker compose --profile auto up
-Shutdown the container:
-docker compose --profile auto down
+   Start up the container:
+   docker compose --profile auto up
+   Shutdown the container:
+   docker compose --profile auto down
